@@ -5,6 +5,7 @@
 This project is an investment calculator built using modern web technologies. It helps users estimate the future value of their investments based on initial investment, annual contributions, expected return rates, and the duration of the investment. The project demonstrates my coding skills, knowledge of JavaScript, React, and web development best practices.
 
 <a href="https://junmike-investment-calc.netlify.app/" target="_blank">View Live Demo</a>
+</br>
 <img src="https://raw.githubusercontent.com/MichaelDAbadJr/assets/refs/heads/main/Investment-Calc.jpg" width="500">
 
 ## Features
