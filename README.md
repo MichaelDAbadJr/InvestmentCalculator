@@ -1,4 +1,4 @@
-# My Portfolio
+# Investment Calculator
 
 ## Overview
 
